@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\work\\source\\repos\\AnotherTestingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56A814DD-8E2C-449C-BE79-9D73F26FE849}|AnotherTestingApp\\AnotherTestingApp.csproj|c:\\users\\work\\source\\repos\\anothertestingapp\\anothertestingapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56A814DD-8E2C-449C-BE79-9D73F26FE849}|AnotherTestingApp\\AnotherTestingApp.csproj|solutionrelative:anothertestingapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A814DD-8E2C-449C-BE79-9D73F26FE849}|AnotherTestingApp\\AnotherTestingApp.csproj|c:\\users\\work\\source\\repos\\anothertestingapp\\anothertestingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A814DD-8E2C-449C-BE79-9D73F26FE849}|AnotherTestingApp\\AnotherTestingApp.csproj|solutionrelative:anothertestingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A814DD-8E2C-449C-BE79-9D73F26FE849}|AnotherTestingApp\\AnotherTestingApp.csproj|c:\\users\\work\\source\\repos\\anothertestingapp\\anothertestingapp\\hub\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A814DD-8E2C-449C-BE79-9D73F26FE849}|AnotherTestingApp\\AnotherTestingApp.csproj|solutionrelative:anothertestingapp\\hub\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A814DD-8E2C-449C-BE79-9D73F26FE849}|AnotherTestingApp\\AnotherTestingApp.csproj|c:\\users\\work\\source\\repos\\anothertestingapp\\anothertestingapp\\anothertestingapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{56A814DD-8E2C-449C-BE79-9D73F26FE849}|AnotherTestingApp\\AnotherTestingApp.csproj|solutionrelative:anothertestingapp\\anothertestingapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\work\\source\\repos\\AnotherTestingApp\\AnotherTestingApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AnotherTestingApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\work\\source\\repos\\AnotherTestingApp\\AnotherTestingApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AnotherTestingApp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-12T17:04:10.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\work\\source\\repos\\AnotherTestingApp\\AnotherTestingApp\\Program.cs",
+              "RelativeDocumentMoniker": "AnotherTestingApp\\Program.cs",
+              "ToolTip": "C:\\Users\\work\\source\\repos\\AnotherTestingApp\\AnotherTestingApp\\Program.cs",
+              "RelativeToolTip": "AnotherTestingApp\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T17:01:43.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\work\\source\\repos\\AnotherTestingApp\\AnotherTestingApp\\Hub\\ChatHub.cs",
+              "RelativeDocumentMoniker": "AnotherTestingApp\\Hub\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\work\\source\\repos\\AnotherTestingApp\\AnotherTestingApp\\Hub\\ChatHub.cs",
+              "RelativeToolTip": "AnotherTestingApp\\Hub\\ChatHub.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwEIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T16:55:06.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnotherTestingApp",
+              "DocumentMoniker": "C:\\Users\\work\\source\\repos\\AnotherTestingApp\\AnotherTestingApp\\AnotherTestingApp.csproj",
+              "RelativeDocumentMoniker": "AnotherTestingApp\\AnotherTestingApp.csproj",
+              "ToolTip": "C:\\Users\\work\\source\\repos\\AnotherTestingApp\\AnotherTestingApp\\AnotherTestingApp.csproj",
+              "RelativeToolTip": "AnotherTestingApp\\AnotherTestingApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-12T16:54:34.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
